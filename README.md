@@ -1,4 +1,4 @@
-# Early-Detection-of-Parkinson-s-Disease
+# Early-Detection-of-Parkinson's-Disease
 
 This was a project on early detection of Parkinson’s Disease, which is difficult and sometimes impossible when relying on conventional means such as MRI or CT scans.
 
